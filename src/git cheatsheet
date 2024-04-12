@@ -1,0 +1,8 @@
+git commands:
+===========================
+git commit
+
+git branch bugFix
+git checkout bugFix/
+
+git checkout -b bugFix  (combine of both)
